@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Assignment: -
+• Using create-react-app build a new project and setup a repository (Github/Your choice), Link
+to be shared with us at completion of your assignment
+• You are expected to implement this using States, fetch/Axios, async-await, etc (You’re free to 
+use whatever NPM packages you like to get the task done)
