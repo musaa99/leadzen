@@ -1,8 +1,12 @@
+import Cards from "./cards/cards";
+import Main from "./component/Main";
+
 
 function App() {
   return (
     <div className="App">
-     hello
+     <Main/>
+     {/* <Cards/> */}
     </div>
   );
 }
