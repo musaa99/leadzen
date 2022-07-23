@@ -1,12 +1,11 @@
-import Cards from "./cards/cards";
 import Main from "./component/Main";
 
 
 function App() {
   return (
-    <div className="App">
+    <div className="w-[900px] mx-auto">
      <Main/>
-     {/* <Cards/> */}
+     
     </div>
   );
 }
